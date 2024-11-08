@@ -1,0 +1,62 @@
+absl-py @ file:///croot/absl-py_1714140470852/work
+Bottleneck @ file:///croot/bottleneck_1731058641041/work
+Brotli @ file:///croot/brotli-split_1714483155106/work
+certifi @ file:///croot/certifi_1725551672989/work/certifi
+charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
+click==8.1.7
+cloudpickle==3.1.0
+configparser==7.0.0
+contourpy==1.3.0
+cycler==0.12.1
+Farama-Notifications==0.0.4
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools==4.54.1
+fsspec==2024.10.0
+gensim==4.3.3
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
+grpcio @ file:///croot/grpc-split_1716834572340/work
+gymnasium==0.29.1
+idna @ file:///croot/idna_1714398848350/work
+Jinja2 @ file:///croot/jinja2_1730902924303/work
+joblib==1.4.2
+kiwisolver==1.4.7
+Markdown @ file:///croot/markdown_1671541909495/work
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.9.2
+mkl-service==2.4.0
+mkl_fft @ file:///io/mkl313/mkl_fft_1730824109137/work
+mkl_random @ file:///io/mkl313/mkl_random_1730823916628/work
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1717597493534/work
+nltk==3.9.1
+-e git+https://github.com/nds113/nmt_cmr_parallels.git@2043ec12543283e42290efb8f3077126a8c66af2#egg=nmt_cmr_parallels
+numexpr @ file:///croot/numexpr_1730215937391/work
+numpy @ file:///croot/numpy_and_numpy_base_1708638617955/work/dist/numpy-1.26.4-cp310-cp310-linux_x86_64.whl#sha256=d8cd837ed43e87f77e6efaa08e8de927ca030a1c9c5d04624432d6fb9a74a5ee
+packaging==24.2
+pandas @ file:///croot/pandas_1718308974269/work/dist/pandas-2.2.2-cp310-cp310-linux_x86_64.whl#sha256=a2434a313a5eb5b4fdbec6c770abfde859f643eff7b3a703791bf8b73e54c394
+pillow @ file:///croot/pillow_1721059439630/work
+protobuf==4.25.3
+protonup==0.1.5
+pyparsing==3.2.0
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+PyYAML @ file:///croot/pyyaml_1728657952215/work
+regex==2024.11.6
+requests @ file:///croot/requests_1730999120400/work
+scipy==1.13.1
+seaborn==0.13.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==7.0.5
+sympy==1.13.1
+tensorboard @ file:///croot/tensorboard_1723042039441/work/tensorboard-2.17.0-py3-none-any.whl#sha256=859a499a9b1fb68a058858964486627100b71fcb21646861c61d31846a6478fb
+tensorboard_data_server @ file:///croot/tensorboard-data-server_1724172556187/work/tensorboard_data_server-0.7.0-py3-none-manylinux2014_x86_64.whl#sha256=4428d660733184391dab7b6b6a953467b614b984df0cc1baf3d8c5d3d4ecf29d
+torch==2.5.1
+torchvision==0.20.1
+tqdm==4.67.0
+triton==3.1.0
+typing_extensions @ file:///croot/typing_extensions_1715268824938/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3 @ file:///croot/urllib3_1727769808118/work
+Werkzeug @ file:///croot/werkzeug_1731005776056/work
+wrapt==1.16.0
